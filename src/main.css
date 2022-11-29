@@ -1,0 +1,38 @@
+.mainContainer{
+    font-size: 20px;
+    color: gold;
+    background-color: black;
+    height: 20rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+#linkedInBtn{
+    font-size: 20px;
+    background-color: rgb(24, 87, 223);
+    color: white;
+
+}
+
+#githubBtn{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+
+.buttons{
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 2px solid rgb(128, 109, 3);
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    transition-duration: .5s;
+}
+
+.buttons:hover{
+    opacity: .6;
+}

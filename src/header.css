@@ -1,0 +1,16 @@
+#profilePic{
+    width: 80%;
+    height: 80%;
+    border-radius: 20px;
+}
+
+#topName {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gold;
+}
+
+#TopContainer{
+    background-color: black;
+    height: 450px;
+}
