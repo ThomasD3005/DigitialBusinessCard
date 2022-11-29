@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Digital Business Card
+
+*Screenshot Below*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Firefox_Screenshot_2022-11-29T12-23-05 210Z](https://user-images.githubusercontent.com/94862006/204533350-84e6177f-542e-44fd-8d99-cff830e32a75.png)
+
+
